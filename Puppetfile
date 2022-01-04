@@ -1,3 +1,4 @@
+mod 'puppetlabs/concat'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/apt'
 mod 'samuelson/dockeragent'
